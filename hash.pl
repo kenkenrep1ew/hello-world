@@ -8,3 +8,4 @@ my %hash = (
 	);
 print %hash;
 
+print "\n".$hash{"sam"};
