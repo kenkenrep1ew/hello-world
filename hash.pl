@@ -6,6 +6,6 @@ my %hash = (
 	"sam" => 1,
 	"morichan" => "?",
 	);
-print %hash;
 
 print "\n".$hash{"sam"};
+print "\n".$hash{"mai"};
