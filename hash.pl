@@ -10,3 +10,4 @@ my %hash = (
 print "\n".$hash{"sam"};
 print "\n".$hash{"mai"};
 #sam
+#kensaku
